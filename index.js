@@ -1,5 +1,5 @@
-class PrioityQueue {
-
+export class PriorityQueue {
+    constructor() {
+        console.log("Working")
+    }
 };
-
-module.export = PrioityQueue;

@@ -1,24 +1,24 @@
 {
-  "name": "skvr-prioity-queue",
-  "version": "1.0.0",
-  "description": "Adds a prioity queue",
+  "name": "skvr-priority-queue",
+  "version": "1.0.1",
+  "description": "Adds a priority queue",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "prioity",
+    "priority",
     "queue",
     "stack"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/SuperKeith333/skvr-prioity-queue"
+    "url": "https://github.com/SuperKeith333/skvr-priority-queue"
   },
   "bugs": {
-    "url": "https://github.com/SuperKeith333/skvr-prioity-queue/issues"
+    "url": "https://github.com/SuperKeith333/skvr-priority-queue/issues"
   },
-  "homepage": "https://github.com/SuperKeith333/skvr-prioity-queue#readme",
+  "homepage": "https://github.com/SuperKeith333/skvr-priority-queue#readme",
   "author": "Keith Salmon keithsalmon737@gmail.com",
   "license": "MIT"
 }
