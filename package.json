@@ -1,0 +1,16 @@
+{
+  "name": "skvr-prioity-queue",
+  "version": "1.0.0",
+  "description": "Adds a prioity queue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "prioity",
+    "queue",
+    "stack"
+  ],
+  "author": "",
+  "license": "ISC"
+}
